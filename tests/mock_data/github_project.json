@@ -1,0 +1,70 @@
+{
+  "project_id_response": {
+    "data": {
+      "repository": {
+        "projectV2": {
+          "id": "PVT_kwDOBDCxpc4AXYZ"
+        }
+      }
+    }
+  },
+  "field_ids_response": {
+    "data": {
+      "node": {
+        "fields": {
+          "nodes": [
+            {
+              "id": "PVTF_lADOBDCxpc4AXYZzM4AXYZ",
+              "name": "Title"
+            },
+            {
+              "id": "PVTF_lADOBDCxpc4AXYZzM4AXYY",
+              "name": "Assignees"
+            },
+            {
+              "id": "PVTSSF_lADOBDCxpc4AXYZzM4AXYZ",
+              "name": "Status",
+              "options": [
+                {
+                  "id": "47fb27da",
+                  "name": "No Status"
+                },
+                {
+                  "id": "75d0b392",
+                  "name": "In Progress"
+                },
+                {
+                  "id": "bf6c6b3a",
+                  "name": "Done"
+                }
+              ]
+            },
+            {
+              "id": "PVTF_lADOBDCxpc4AXYZzM4AXXZ",
+              "name": "Due Date"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "issue_create_response": {
+    "node_id": "I_kwDOBDCxpc5ABC123"
+  },
+  "add_to_project_response": {
+    "data": {
+      "addProjectV2ItemById": {
+        "item": {
+          "id": "PVTI_lADOBDCxpc4AXYZzM4AXAA"
+        }
+      }
+    }
+  },
+  "update_field_response": {
+    "data": {
+      "updateProjectV2ItemFieldValue": {
+        "clientMutationId": null
+      }
+    }
+  }
+} 
